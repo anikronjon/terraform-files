@@ -1,0 +1,2 @@
+NOTE: To destructur create multiple file for blocks
+Run terraform file using "terraform plan"
