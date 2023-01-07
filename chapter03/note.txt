@@ -1,0 +1,5 @@
+we can take user input and print it.
+
+Two ways we can do
+    1. write block in same file.
+    2. destructue blocks in multiple files
