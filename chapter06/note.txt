@@ -1,0 +1,23 @@
+add github access token in terraform.tfvars file
+
+COMMAND
+
+1. Install plugings
+$ terraform init
+
+2. See plan
+$ terraform plan
+
+3. Apply plan(config)
+$ terraform apply
+or
+$ terraform apply -auto-approve
+
+Note:
+- destroy all resources
+    $ terraform destroy
+    or
+    $ terraform destroy -auto-approve
+
+- destroy single resources
+    $ terraform destroy --target resource_name.resource_lable
